@@ -9,9 +9,7 @@ I am a junior **Full Stack Web Developer** located in Czech Republic.
 
 🌱 I am a lifelong learner. I enjoy challenges and am always eager to learn new technologies to enhance my skills. Currently I´m learning GSAP and data structures and algorithms.
 
-🎹 My favorite activities include programming, learning about astronomy, playing a piano or binge watching TV shows.
-
-🐱 I have an Akita Inu dog named Kohaku and a Ragdoll cat named Max.
+🎹 My favorite activities include programming, learning about astronomy, playing a piano or binge watching TV shows. I also have an Akita Inu dog named Kohaku and a Ragdoll cat named Max 🐱
 
 📧 You can connect with me via Linkedin, the link to my account is in my bio!
 
