@@ -9,7 +9,7 @@ I am a junior **Full Stack Web Developer** located in Czech Republic.
 
 🌱 I am a lifelong learner. I enjoy challenges and am always eager to learn new technologies to enhance my skills. Currently I´m learning GSAP and data structures and algorithms.
 
-🎹 My favorite activities include programming, learning about astronomy or playing a piano. I also spend a lot of time with my dog and cat 🐱
+🎹 My favorite activities include programming, learning about astronomy, playing the piano or watching wrestling.
 
 📧 You can connect with me via Linkedin, the link to my account is in my bio!
 
